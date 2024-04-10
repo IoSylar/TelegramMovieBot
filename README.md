@@ -17,4 +17,4 @@ Once one or more film recommendations are determined by the LLMS, another prompt
 A Telegram channel was created, utilizing the telegram.ext library to create the Telegram context and actions (e.g., /start and /query) for optimal chatbot usage.
 
 # Screen
-![Screenshot](images/telegram.jpeg)
+![Screenshot](images/telegram2.jpeg)
